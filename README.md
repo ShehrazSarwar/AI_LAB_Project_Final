@@ -1,8 +1,6 @@
 # 🌍 Automated MLOps for Air Quality: Pearls AQI Predictor
 ![Hourly Data](https://github.com/ShehrazSarwar/pearls-aqi-predictor/actions/workflows/hourly_data.yml/badge.svg) ![Daily Training](https://github.com/ShehrazSarwar/pearls-aqi-predictor/actions/workflows/daily_model.yml/badge.svg)
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ShehrazSarwar/pearls-aqi-predictor)
-
 [![View Report](https://img.shields.io/badge/📄%20View-Detailed%20Report-blue?style=for-the-badge)](https://github.com/ShehrazSarwar/pearls-aqi-predictor/blob/main/Project%20Report.pdf)
 
 ## Live Dashboard
