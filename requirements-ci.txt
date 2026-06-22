@@ -11,3 +11,4 @@ retry-requests
 mlflow-skinny
 dagshub
 cloudpickle
+skops
