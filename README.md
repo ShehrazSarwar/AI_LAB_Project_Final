@@ -162,19 +162,6 @@ You can run the pipelines manually from your local machine.
 ## 🏁 Conclusion
 
 This project demonstrates a robust, production-ready MLOps architecture for environmental forecasting. By decoupling data ingestion from model retraining, the system ensures high data availability and continuous model improvement without manual intervention. The integration of **SHAP** for interpretability and **MLflow** for lifecycle management elevates it from a simple script to a professional machine learning service.
-
-> **✅ Project Status: Production Ready.** The backend automation, MLOps pipelines, and interactive Streamlit dashboard are fully functional. The system is currently delivering real-time AQI forecasts for Karachi with automated daily model updates.
-
-
-## 👤 Author & Credits
-
-Developed with ❤️ by **Shehraz Sarwar** as part of the **10Pearls Shine Program 2026 (Cohort 7)** - *Data Science*.
-
-* **LinkedIn:** [Shehraz Sarwar](https://www.linkedin.com/in/shehraz-sarwar-ghouri-321394247/)
-* **Program:** 10Pearls Shine Internship
-* **Track:** Data Science & MLOps
-* **Organization:** [10Pearls](https://10pearls.com/)
-
 ---
 
 *If you find this project useful, please consider giving it a ⭐ on GitHub!*
