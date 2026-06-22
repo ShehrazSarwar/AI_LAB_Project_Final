@@ -1,7 +1,7 @@
 # 🌍 Automated MLOps for Air Quality: Pearls AQI Predictor
-![Hourly Data](https://github.com/ShehrazSarwar/pearls-aqi-predictor/actions/workflows/hourly_data.yml/badge.svg) ![Daily Training](https://github.com/ShehrazSarwar/pearls-aqi-predictor/actions/workflows/daily_model.yml/badge.svg)
+![Hourly Data](https://github.com/ShehrazSarwar/AI_LAB_Project_Final/actions/workflows/hourly_data.yml/badge.svg) ![Daily Training](https://github.com/ShehrazSarwar/AI_LAB_Project_Final/actions/workflows/daily_model.yml/badge.svg)
 
-[![View Report](https://img.shields.io/badge/📄%20View-Detailed%20Report-blue?style=for-the-badge)](https://github.com/ShehrazSarwar/pearls-aqi-predictor/blob/main/Project%20Report.pdf)
+[![View Report](https://img.shields.io/badge/📄%20View-Detailed%20Report-blue?style=for-the-badge)](https://github.com/ShehrazSarwar/AI_LAB_Project_Final/blob/main/Project%20Report.pdf)
 
 ## Live Dashboard
 The interactive prediction interface is deployed on Hugging Face Spaces. You can view real-time forecasts and model performance here:
